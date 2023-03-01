@@ -1,0 +1,24 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+a{
+    font-size: 40px ;
+width: 400px;
+border-radius: 40px ;
+color: white;
+}
+#back 
+{
+background-color: aqua;
+float: right;
+font-size: 20px;
+width: 50px;
+
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    float: below;
+}
